@@ -1,3 +1,3 @@
 # vue-snippets
 ## Description
-VueJS snippets. Includes notification, OneDrive integration, etc.
+VueJS/NuxtJS snippets. Includes notification, form-builder, OneDrive integration, etc.
